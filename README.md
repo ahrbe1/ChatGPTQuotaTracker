@@ -19,3 +19,5 @@ Features:
 Config file is located at: `~/.chatgpt-quota.conf`
 
 License: MIT
+
+![Screenshot](/screenshot.png)
