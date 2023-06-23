@@ -1,6 +1,4 @@
 # ChatGPTQuotaTracker
-A simple Python application to track ChatGPT Quota
-
 This small app will help you manually track your ChatGPT quota.
 
 The current quota is 25 messages / 3 hours. 
